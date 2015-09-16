@@ -1,3 +1,6 @@
 include ':'
 include ':CastCompanionLibrary'
 project(':CastCompanionLibrary').projectDir = new File('../CastCompanionLibrary')
+include ':libstreaming'
+project(':libstreaming').projectDir = new File('../libstreaming')
+
