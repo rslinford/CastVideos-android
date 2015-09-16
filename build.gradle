@@ -37,7 +37,7 @@ android {
     buildToolsVersion "23"
 
     defaultConfig {
-        minSdkVersion 10
+        minSdkVersion 15
         targetSdkVersion 22
     }
 
